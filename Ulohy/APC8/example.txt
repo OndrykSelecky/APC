@@ -1,0 +1,20 @@
+
+                { 
+"firstName" : "John" ,
+  "lastName": "Smith",
+  "age": 22,
+  
+    "streetAddress": "21, 2nd Street",
+    "city": 
+
+"New York",
+    "state": "NY",
+    "postalCode": "10021-3100",
+  "Answer to the Ultimate Question of Life, the Universe, and Everything!": 42,
+  "name1": "value1",
+	"name2": "value 2 (pozor v tomto stringu je medzera)",
+	"name3 (aj tu je medzera)": -1254,
+
+"friend": "idiot!" ,
+"number of Doctor Who episodes": 826
+}

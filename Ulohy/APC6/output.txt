@@ -1,0 +1,17 @@
+28470: abc...c c
+113932: cab...abc
+114903: aab...bba
+212634: ba ...c\na
+239569: \nac...\nbc
+403083: bab... ac
+468941: aca...cbc
+531796: aa\t... \n\n
+537885: c\nc...bca
+541581: caa... c 
+594013: ca\t...abc
+698105: bcb...aba
+783499: baa...cab
+854162: abc...aa 
+885662: c b...cbc
+924574: ccb...a c
+983416:  ab...aaa
